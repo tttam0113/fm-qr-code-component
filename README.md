@@ -17,4 +17,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/tttam0113/fm-qr-code-component.git](https://github.com/tttam0113/fm-qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://fm-qr-code-component-puce.vercel.app/](https://fm-qr-code-component-puce.vercel.app/)
